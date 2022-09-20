@@ -8,7 +8,7 @@
 
 <form method="post" action="register.php" class="form">
 
-    <h2>Đăng ký thành viên</h2>
+    <h2>Đăng ký thành viêns</h2>
 
     Username: <input type="text" name="username" value="" required>
 
